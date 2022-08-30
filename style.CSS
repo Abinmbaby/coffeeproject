@@ -56,11 +56,23 @@ img{
     margin-left: 15px;
 }
 .mid{
-    height: 700px;
+    height: 600px;
     width: 102%;
     margin-top: 182px;
     background-color: antiquewhite;
+    position: relative;
 }
-.mid1{
+#div4{
+    position: absolute;
+    left: 150px;
+}
+#mid1{
+    margin-left: 150px;
     margin-top: 100px;
+    font-weight: 600;
+}
+button{
+    background-color: black;
+    color: white;
+    margin-top: 60px;
 }
